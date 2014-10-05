@@ -59,3 +59,7 @@ end
 gem 'bootstrap-sass'
 
 gem 'mysql2'
+
+gem 'priceable'
+
+gem 'devise'
