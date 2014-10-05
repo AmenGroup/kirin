@@ -1,0 +1,2 @@
+module Mine::OrderHelper
+end
